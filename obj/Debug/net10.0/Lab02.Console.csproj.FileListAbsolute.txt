@@ -1,0 +1,14 @@
+C:\Users\s37410\WARP\Lab02.Console\bin\Debug\net10.0\Lab02.Console.exe
+C:\Users\s37410\WARP\Lab02.Console\bin\Debug\net10.0\Lab02.Console.deps.json
+C:\Users\s37410\WARP\Lab02.Console\bin\Debug\net10.0\Lab02.Console.runtimeconfig.json
+C:\Users\s37410\WARP\Lab02.Console\bin\Debug\net10.0\Lab02.Console.dll
+C:\Users\s37410\WARP\Lab02.Console\bin\Debug\net10.0\Lab02.Console.pdb
+C:\Users\s37410\WARP\Lab02.Console\obj\Debug\net10.0\Lab02.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37410\WARP\Lab02.Console\obj\Debug\net10.0\Lab02.Console.AssemblyInfoInputs.cache
+C:\Users\s37410\WARP\Lab02.Console\obj\Debug\net10.0\Lab02.Console.AssemblyInfo.cs
+C:\Users\s37410\WARP\Lab02.Console\obj\Debug\net10.0\Lab02.Console.csproj.CoreCompileInputs.cache
+C:\Users\s37410\WARP\Lab02.Console\obj\Debug\net10.0\Lab02.Console.dll
+C:\Users\s37410\WARP\Lab02.Console\obj\Debug\net10.0\refint\Lab02.Console.dll
+C:\Users\s37410\WARP\Lab02.Console\obj\Debug\net10.0\Lab02.Console.pdb
+C:\Users\s37410\WARP\Lab02.Console\obj\Debug\net10.0\Lab02.Console.genruntimeconfig.cache
+C:\Users\s37410\WARP\Lab02.Console\obj\Debug\net10.0\ref\Lab02.Console.dll
